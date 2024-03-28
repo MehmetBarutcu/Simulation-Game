@@ -54,7 +54,7 @@ project_root/
 python simulate.py --input-file env.inp --export-file results.txt
 ```
 
-# Optional parameters:
+## Optional parameters:
 
 - --input-file: Specifies the input file path containing the initial configuration of the game.
 - --random-generate-instance: Generates a random map, agents, and units if specified.
